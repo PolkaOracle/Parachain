@@ -1,10 +1,10 @@
 [package]
-authors = ['polka_oracle <https://github.com/polka_oracle>']
+authors = ['PolkaOracle <https://github.com/PolkaOracle>']
 description = 'FRAME pallet template for defining custom runtime logic.'
 edition = '2018'
 license = 'Unlicense'
 name = 'pallet-bussines'
-repository = 'https://github.com/polka_oracle/Parachain'
+repository = 'https://github.com/PolkaOracle/Parachain'
 version = '2.0.0'
 
 [package.metadata.docs.rs]

@@ -1,11 +1,11 @@
 [package]
-authors = ['polka_oracle <https://github.com/polka_oracle>']
+authors = ['PolkaOracle <https://github.com/PolkaOracle>']
 build = 'build.rs'
 description = 'A Substrate based chain'
 edition = '2018'
 license = 'Unlicense'
 name = 'polka_oracle'
-repository = 'https://github.com/polka_oracle/Parachain'
+repository = 'https://github.com/PolkaOracle/Parachain'
 version = '2.0.0'
 
 [[bin]]
